@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279013395804",
+    "project_id": "easylazy-30180",
+    "storage_bucket": "easylazy-30180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279013395804:android:85e5d1f9d0c887cb434599",
+        "android_client_info": {
+          "package_name": "com.example.easylazy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfnSKqsxuPBh94Ez0LxkdeEKgDEw9SrsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
